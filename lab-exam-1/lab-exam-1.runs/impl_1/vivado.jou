@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Sep 13 10:25:25 2019
+# Process ID: 965
+# Current directory: /home/2018csb1094/Desktop/lab-exam-1/lab-exam-1.runs/impl_1
+# Command line: vivado -log demux1to16.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source demux1to16.tcl -notrace
+# Log file: /home/2018csb1094/Desktop/lab-exam-1/lab-exam-1.runs/impl_1/demux1to16.vdi
+# Journal file: /home/2018csb1094/Desktop/lab-exam-1/lab-exam-1.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source demux1to16.tcl -notrace

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/2018csb1094/Desktop/lab-1/lab-1.srcs/sources_1/new/xor2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module xor2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/2018csb1094/Desktop/lab-1/lab-1.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

@@ -1,0 +1,11 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+A = 0, B = 0, Y = 0
+A = 0, B = 1, Y = 1
+A = 1, B = 1, Y = 0
+A = 1, B = 0, Y = 1
+A = 0, B = 1, Y = 1
+A = 1, B = 1, Y = 0
+A = 0, B = 0, Y = 0
+A = 1, B = 1, Y = 0
+$finish called at time : 400 ns : File "/home/2018csb1094/Desktop/lab-1/lab-1.srcs/sim_1/new/testbench.v" Line 66
